@@ -130,7 +130,8 @@ Write your own steps here.
 ```
 
 ## Output:
-/home/sec/Pictures/Screenshots/Screenshot from 2024-01-01 22-46-52.png
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202024-01-01%2022-46-52.png![image](https://github.com/RESHMA22C/cover-page-design/assets/147474426/bce0138e-89f3-42ff-8edc-91f059eacdcf)
+
 
 ## Result:
 The program for designing book front cover page using HTML and CSS is completed successfully.
